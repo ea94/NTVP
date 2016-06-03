@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="SquaresCalc3.5" Title="SquaresCalc3.5 Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.AddFigureForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000003.html" LinkGroup="SquaresCalc3.5">AddFigureForm Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.AddFigureForm.AddFigureForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000005.html" LinkGroup="SquaresCalc3.5">AddFigureForm Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.MainViewForm.AddFigureForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_000000000000000C.html" LinkGroup="SquaresCalc3.5">AddFigureForm Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.ObjectControl.ControlsEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000015.html" LinkGroup="SquaresCalc3.5">ControlsEnabled Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.AddFigureForm.Data" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000004.html" LinkGroup="SquaresCalc3.5">Data Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.ObjectControl.FigureTypeComboBoxSelectedIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000014.html" LinkGroup="SquaresCalc3.5">FigureTypeComboBoxSelectedIndex Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.MainViewForm.MainViewForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_000000000000000D_overloads--.html" LinkGroup="SquaresCalc3.5">MainViewForm </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.MainViewForm.MainViewForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_000000000000000E_overloads--.html" LinkGroup="SquaresCalc3.5">MainViewForm </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.MainViewForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_000000000000000B.html" LinkGroup="SquaresCalc3.5">MainViewForm Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.ObjectControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_000000000000000F.html" LinkGroup="SquaresCalc3.5">ObjectControl Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.ObjectControl.ObjectControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000010.html" LinkGroup="SquaresCalc3.5">ObjectControl Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.ObjectControl.ParATextBoxText" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000011.html" LinkGroup="SquaresCalc3.5">ParATextBoxText Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.ObjectControl.ParBTextBoxText" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000012.html" LinkGroup="SquaresCalc3.5">ParBTextBoxText Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.ObjectControl.ParCTextBoxText" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000013.html" LinkGroup="SquaresCalc3.5">ParCTextBoxText Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.ObjectControl.ParametrsAreaSetTo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000016_overloads--.html" LinkGroup="SquaresCalc3.5">ParametrsAreaSetTo Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.ObjectControl.ParametrsAreaSetTo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000017_overloads--.html" LinkGroup="SquaresCalc3.5">ParametrsAreaSetTo Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.ObjectControl.ParametrsAreaSetTo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000018_overloads--.html" LinkGroup="SquaresCalc3.5">ParametrsAreaSetTo Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.AddFigureForm.ParametrsTextBoxValidate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000009_overloads--.html" LinkGroup="SquaresCalc3.5">ParametrsTextBoxValidate Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.AddFigureForm.ParametrsTextBoxValidate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_000000000000000A_overloads--.html" LinkGroup="SquaresCalc3.5">ParametrsTextBoxValidate Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.AddFigureForm.SetAsAddForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000006.html" LinkGroup="SquaresCalc3.5">SetAsAddForm Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.AddFigureForm.SetAsModifyForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000007.html" LinkGroup="SquaresCalc3.5">SetAsModifyForm Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View.AddFigureForm.ShowAlert" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000008.html" LinkGroup="SquaresCalc3.5">ShowAlert Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3.5 Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000019.html" LinkGroup="SquaresCalc3.5">SquaresCalc3.5 Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SquaresCalc3._5.View" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SquaresCalc3.5.chm::/topic_0000000000000002.html" LinkGroup="SquaresCalc3.5">SquaresCalc3._5.View Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="UnitTests" Title="UnitTests Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.CircleTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_0000000000000001.html" LinkGroup="UnitTests">CircleTest Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.TriangleTest.MaxLegsTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_000000000000000E.html" LinkGroup="UnitTests">MaxLegsTest Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.CircleTest.MaxRadiusTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_0000000000000004.html" LinkGroup="UnitTests">MaxRadiusTest Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.QuadrateTest.MaxSidesTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_0000000000000009.html" LinkGroup="UnitTests">MaxSidesTest Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.TriangleTest.NotPositiveLegsTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_000000000000000C.html" LinkGroup="UnitTests">NotPositiveLegsTest Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.CircleTest.NotPositiveRadiusTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_0000000000000002.html" LinkGroup="UnitTests">NotPositiveRadiusTest Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.QuadrateTest.NotPositiveSidesTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_0000000000000007.html" LinkGroup="UnitTests">NotPositiveSidesTest Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.QuadrateTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_0000000000000006.html" LinkGroup="UnitTests">QuadrateTest Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.CircleTest.SquareTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_0000000000000005.html" LinkGroup="UnitTests">SquareTest Method {UnitTests.Shapes.CircleTest}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.QuadrateTest.SquareTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_000000000000000A.html" LinkGroup="UnitTests">SquareTest Method {UnitTests.Shapes.QuadrateTest}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.TriangleTest.SquareTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_000000000000000F.html" LinkGroup="UnitTests">SquareTest Method {UnitTests.Shapes.TriangleTest}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.TriangleTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_000000000000000B.html" LinkGroup="UnitTests">TriangleTest Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_0000000000000010.html" LinkGroup="UnitTests">UnitTests Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_0000000000000000.html" LinkGroup="UnitTests">UnitTests.Shapes Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.TriangleTest.ZeroLegsTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_000000000000000D.html" LinkGroup="UnitTests">ZeroLegsTest Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.CircleTest.ZeroRadiusTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_0000000000000003.html" LinkGroup="UnitTests">ZeroRadiusTest Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTests.Shapes.QuadrateTest.ZeroSidesTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTests.chm::/topic_0000000000000008.html" LinkGroup="UnitTests">ZeroSidesTest Method</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

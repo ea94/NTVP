@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\bin\Release\SquaresCalc3.5.exe.config
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\bin\Release\SquaresCalc3.5.exe
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\bin\Release\SquaresCalc3.5.pdb
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\bin\Release\Newtonsoft.Json.dll
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\bin\Release\Shapes.dll
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\bin\Release\Shapes.pdb
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\bin\Release\Newtonsoft.Json.xml
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\obj\Release\SquaresCalc3.5.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\obj\Release\SquaresCalc3._5.Properties.Resources.resources
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\obj\Release\SquaresCalc3._5.View.AddFigureForm.resources
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\obj\Release\SquaresCalc3._5.View.MainViewForm.resources
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\obj\Release\SquaresCalc3._5.View.ObjectControl.resources
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\obj\Release\SquaresCalc3.5.csproj.GenerateResource.Cache
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\obj\Release\SquaresCalc3.5.exe
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\SquaresCalc3.5\obj\Release\SquaresCalc3.5.pdb

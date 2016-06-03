@@ -1,0 +1,11 @@
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\UnitTests\bin\Debug\Moq.dll
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\UnitTests\bin\Debug\Shapes.dll
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\UnitTests\bin\Debug\Shapes.pdb
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\UnitTests\bin\Debug\Moq.xml
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\UnitTests\obj\Debug\UnitTests.pdb

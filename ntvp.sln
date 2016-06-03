@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{DFF3A250-CD8F-44D8-AD33-83C8469549F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{ED5B79EE-F068-4A54-90D6-DF08953A4E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresCalc3.5", "SquaresCalc3.5\SquaresCalc3.5.csproj", "{00F7C0F0-3F70-448F-A125-20E61A4F92D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF3A250-CD8F-44D8-AD33-83C8469549F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF3A250-CD8F-44D8-AD33-83C8469549F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF3A250-CD8F-44D8-AD33-83C8469549F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF3A250-CD8F-44D8-AD33-83C8469549F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5B79EE-F068-4A54-90D6-DF08953A4E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5B79EE-F068-4A54-90D6-DF08953A4E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5B79EE-F068-4A54-90D6-DF08953A4E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5B79EE-F068-4A54-90D6-DF08953A4E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F7C0F0-3F70-448F-A125-20E61A4F92D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F7C0F0-3F70-448F-A125-20E61A4F92D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F7C0F0-3F70-448F-A125-20E61A4F92D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F7C0F0-3F70-448F-A125-20E61A4F92D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

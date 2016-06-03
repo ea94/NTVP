@@ -1,0 +1,4 @@
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\Shapes\bin\Release\Shapes.dll
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\Shapes\bin\Release\Shapes.pdb
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\Shapes\obj\Release\Shapes.dll
+C:\Users\Александр\Desktop\Новая папка (9)\ntvp-master\Shapes\obj\Release\Shapes.pdb
